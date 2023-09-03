@@ -1,0 +1,48 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#current-image-container {
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+   margin:1rem;
+}
+
+#current-image-container h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+#current-image-container h3 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#current-image-container img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+}
+
+#current-image-container p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+#search-history h2{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+#search-history {
+    list-style-type: none;
+    padding: 0;
+}
+
+#search-history li {
+    margin: 1rem;
+}
+
+
